@@ -1,4 +1,4 @@
-/* eslint-disable react-refresh/only-export-components */
+
 import {
 	
 	Children,
@@ -45,7 +45,7 @@ const initialData = [
     "available": false
   },
   {
-    "id" : 5,
+    id : 5,
     "name": "Pacific Executive Room",
     "type": "meeting room",
     "capacity": 14,
@@ -60,7 +60,7 @@ const initialData = [
     "capacity": 2,
     "location": "Floor 4",
     "pricePerHour": 42000,
-    "available": false
+    available: false
   },
   {
     id: 7,
@@ -87,7 +87,7 @@ const initialData = [
     "capacity": 6,
     "location": "Floor 1",
     "pricePerHour": 38000,
-    "available": true
+    available: true
   },
   {
     "id": 10,
